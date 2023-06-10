@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">I'm Jacob</h1>
 <h3 align="center">A Software Engineer attending Auburn University</h3>
