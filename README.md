@@ -26,7 +26,7 @@ Feel free to explore the projects, check out the code, and provide feedback or s
 
 I would love to connect with fellow enthusiasts, professionals, and learners in the field. You can find me on:
 
-- LinkedIn: [Jacob Simmons](https://www.linkedin.com/in/jacob-simmons-603752216/)
+- LinkedIn: [www.linkedin.com/in/jacob-s-simmons](https://www.linkedin.com/in/jacob-s-simmons)
 - Email: [jakerstx@gmail.com](mailto:jakerstx@gmail.com)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hello!
