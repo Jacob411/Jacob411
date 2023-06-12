@@ -16,8 +16,8 @@ Hello! I'm **Jacob Simmons**, a passionate Software Engineer studying at **Aubur
 Here are some of the projects you'll find in this repository:
 
 - [Spotify Machine Learning](link-to-project-1): A Spotify ML model that can predict whether the user will like a song.
-- [A Python task management app](https://github.com/Jacob411/ENGR-1110-Project): A simple task managment app that was built with tkinter.
-- [Cocktail Creatio Web App](https://github.com/owenstrength/tropical-hackathon): A cocktail creation app created during a Hackathon.
+- [Task Management App](https://github.com/Jacob411/ENGR-1110-Project): A simple task managment app that was built with Python and Tkinter.
+- [Cocktail Creation Web App](https://github.com/owenstrength/tropical-hackathon): A cocktail creation app created during a Hackathon.
 
 Feel free to explore the projects, check out the code, and provide feedback or suggestions. I'm always open to collaboration and learning from others.
 
