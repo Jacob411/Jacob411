@@ -6,7 +6,7 @@
 
 Hello! I'm **Jacob Simmons**, a passionate Software Engineer studying at **Auburn University**. I'm excited about leveraging the power of **machine learning and data science** to solve real-world problems. This GitHub profile serves as a showcase of my projects and contributions in the field.
 
-- 🔭 I’m currently working on a Spotify ML application to predict music taste
+- 🔭 I’m currently working as an intern with computer vision and ML tasks
 
 - 🌱 I’m currently learning **AI/ML with data science, System architecture, Digital Credentialing**
 
