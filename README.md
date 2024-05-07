@@ -17,7 +17,7 @@ Here are some of the projects you'll find in this repository:
 
 - [Spotify Machine Learning](https://github.com/Jacob411/Spotify-Machine-Learning): A Spotify ML model that can predict whether the user will like a song.
 - [Crypto-Manager](https://github.com/Jacob411/Crypto-Manager): A file encryption and decryption command line tool written entirely in C++.
-- [Cocktail Creation Web App](https://github.com/owenstrength/tropical-hackathon): A cocktail creation app created during a Hackathon.
+- [Playlist Image Generator](https://github.com/Jacob411/PlaylistImageGenerator): A software for creating AI generated cover art for a user's playlist based on the genres.
 
 Feel free to explore the projects, check out the code, and provide feedback or suggestions. I'm always open to collaboration and learning from others.
 
