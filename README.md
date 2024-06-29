@@ -16,8 +16,8 @@ Hello! I'm **Jacob Simmons**, a passionate Software Engineer studying at **Aubur
 Here are some of the projects you'll find in this repository:
 
 - [Playlist Image Generator](https://github.com/Jacob411/PlaylistImageGenerator): AI generated cover art for playlists based on the genres.
-- [Spotify Machine Learning](https://github.com/Jacob411/Spotify-Machine-Learning): A Spotify ML model that can predict whether the user will like a song.
-- [Crypto-Manager](https://github.com/Jacob411/Crypto-Manager): A file encryption and decryption command line tool written entirely in C++.
+- [Crypto-Manager](https://github.com/Jacob411/Crypto-Manager): File encryption and decryption command line tool written entirely in C++.
+- [Spotify Machine Learning](https://github.com/Jacob411/Spotify-Machine-Learning): Machine Learning on Spotify song data.
 
 Feel free to explore the projects, check out the code, and provide feedback or suggestions. I'm always open to collaboration and learning from others.
 
