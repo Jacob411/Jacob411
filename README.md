@@ -16,6 +16,7 @@ Hello! I'm **Jacob Simmons**, a passionate Software Engineer studying at **Aubur
 Here are some of the recent projects you'll find in this repository:
 
 - [Ollama Copilot](https://github.com/Jacob411/Ollama-Copilot): IN PROGRESS: A **Neovim** plugin which uses locally hosted LLMs provided by Ollama to give GitHub Copilot like completions.
+- [MMLab-pose](https://github.com/Jacob411/mmlab-pose): Tooling for getting up and running with pose estimation Vision Transformers from [ViTPose](https://github.com/ViTAE-Transformer/ViTPose)
 - [Playlist Image Generator](https://github.com/Jacob411/PlaylistImageGenerator): **Dalle-3** AI generated cover art for playlists based on the genres.
 - [Crypto-Manager](https://github.com/Jacob411/Crypto-Manager): File encryption and decryption command line tool written entirely in C++.
 
