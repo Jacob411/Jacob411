@@ -4,7 +4,7 @@
 
 Hello! I'm **Jacob Simmons**, a passionate Software Engineer studying at **Auburn University**. Most of my work has involved using **machine learning, data science, and software development** to solve real-world problems. This GitHub profile serves as a showcase of my projects and contributions in these fields.
 
-- 🔭 I’m currently working part-time as Engineer focusing on **Computer Vision**, ML tasks, and building **high-throughput pipelines**.  
+- 🔭 I’m currently working a Software Engineer focusing on **NLP**, ML tasks, and search.  
 - 🌱 I’m diving deep into **AI/ML**, **evolutionary algorithms**, **Neovim Plugins**, **NLP**, and **large language models (LLMs)**.  
 - 💡 I’m passionate about **building tools**, **optimizing workflows**, and leveraging **automation** to improve productivity.
 
